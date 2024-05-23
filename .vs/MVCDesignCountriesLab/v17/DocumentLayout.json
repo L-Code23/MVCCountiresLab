@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|c:\\users\\ramse\\source\\repos\\mvcdesigncountrieslab\\mvcdesigncountrieslab\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|solutionrelative:mvcdesigncountrieslab\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|c:\\users\\ramse\\source\\repos\\mvcdesigncountrieslab\\mvcdesigncountrieslab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|solutionrelative:mvcdesigncountrieslab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|c:\\users\\ramse\\source\\repos\\mvcdesigncountrieslab\\mvcdesigncountrieslab\\countrylistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|solutionrelative:mvcdesigncountrieslab\\countrylistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|c:\\users\\ramse\\source\\repos\\mvcdesigncountrieslab\\mvcdesigncountrieslab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|solutionrelative:mvcdesigncountrieslab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|c:\\users\\ramse\\source\\repos\\mvcdesigncountrieslab\\mvcdesigncountrieslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FABA46-6E27-4194-B758-70189B69C66C}|MVCDesignCountriesLab\\MVCDesignCountriesLab.csproj|solutionrelative:mvcdesigncountrieslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\Program.cs",
+              "RelativeDocumentMoniker": "MVCDesignCountriesLab\\Program.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\Program.cs",
+              "RelativeToolTip": "MVCDesignCountriesLab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:36:58.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\Country.cs",
+              "RelativeDocumentMoniker": "MVCDesignCountriesLab\\Country.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\Country.cs",
+              "RelativeToolTip": "MVCDesignCountriesLab\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:44:10.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryView.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\CountryView.cs",
+              "RelativeDocumentMoniker": "MVCDesignCountriesLab\\CountryView.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\CountryView.cs",
+              "RelativeToolTip": "MVCDesignCountriesLab\\CountryView.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:47:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryListView.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\CountryListView.cs",
+              "RelativeDocumentMoniker": "MVCDesignCountriesLab\\CountryListView.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\CountryListView.cs",
+              "RelativeToolTip": "MVCDesignCountriesLab\\CountryListView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:14:08.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\CountryController.cs",
+              "RelativeDocumentMoniker": "MVCDesignCountriesLab\\CountryController.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\MVCDesignCountriesLab\\MVCDesignCountriesLab\\CountryController.cs",
+              "RelativeToolTip": "MVCDesignCountriesLab\\CountryController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAABBwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:28:27.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
